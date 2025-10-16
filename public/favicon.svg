@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="8" fill="url(#gradient)"/>
+  <!-- Sparkles Icon -->
+  <g transform="translate(6, 6)">
+    <path d="M10 2L11.5 6.5L16 8L11.5 9.5L10 14L8.5 9.5L4 8L8.5 6.5L10 2Z" fill="white" opacity="0.95"/>
+    <path d="M2 4L2.5 5.5L4 6L2.5 6.5L2 8L1.5 6.5L0 6L1.5 5.5L2 4Z" fill="white" opacity="0.8"/>
+    <path d="M18 4L18.5 5.5L20 6L18.5 6.5L18 8L17.5 6.5L16 6L17.5 5.5L18 4Z" fill="white" opacity="0.8"/>
+    <path d="M10 12L10.5 13.5L12 14L10.5 14.5L10 16L9.5 14.5L8 14L9.5 13.5L10 12Z" fill="white" opacity="0.7"/>
+  </g>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+</svg>
